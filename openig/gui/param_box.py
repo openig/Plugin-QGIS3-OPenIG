@@ -6,9 +6,9 @@ from qgis.PyQt.QtCore import Qt
 from qgis.core import *
 from qgis.gui import *
 
-from datagrandest.utils.plugin_globals import PluginGlobals
-from datagrandest.nodes.tree_node_factory import TreeNodeFactory
-from datagrandest.nodes.tree_node_factory import download_tree_config_file
+from openig.utils.plugin_globals import PluginGlobals
+from openig.nodes.tree_node_factory import TreeNodeFactory
+from openig.nodes.tree_node_factory import download_tree_config_file
 
 
 class ParamBox(QDialog):
@@ -88,7 +88,7 @@ class ParamBox(QDialog):
         self.button_box.button(QDialogButtonBox.Apply).clicked.connect(self.apply_button_clicked)
 
         # Dialog box title, layout, size and display
-        title = u"Paramétrage de l'extension DataGrandEst…"
+        title = u"Paramétrage de l'extension OPenIG"
         self.setWindowTitle(title)
         dlg_layout.addWidget(self.button_box)
         self.setLayout(dlg_layout)
@@ -112,7 +112,7 @@ class ParamBox(QDialog):
         self.download_cb.blockSignals(True)
         self.download_cb.setChecked(PluginGlobals.instance().CONFIG_FILES_DOWNLOAD_AT_STARTUP)
         self.download_cb.blockSignals(True)
-        
+
         # Hide resources with a warn flag
         self.hide_resources_with_warn_status_cb.blockSignals(True)
         self.hide_resources_with_warn_status_cb.setChecked(PluginGlobals.instance().HIDE_RESOURCES_WITH_WARN_STATUS)

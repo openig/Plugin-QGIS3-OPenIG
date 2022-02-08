@@ -5,12 +5,12 @@ from qgis.PyQt.QtCore import Qt
 
 import os.path
 
-from datagrandest.utils.plugin_globals import PluginGlobals
-from datagrandest.gui.dock import DockWidget
-from datagrandest.gui.about_box import AboutBox
-from datagrandest.gui.param_box import ParamBox
-from datagrandest.nodes.tree_node_factory import TreeNodeFactory
-from datagrandest.nodes.tree_node_factory import download_tree_config_file
+from openig.utils.plugin_globals import PluginGlobals
+from openig.gui.dock import DockWidget
+from openig.gui.about_box import AboutBox
+from openig.gui.param_box import ParamBox
+from openig.nodes.tree_node_factory import TreeNodeFactory
+from openig.nodes.tree_node_factory import download_tree_config_file
 
 
 class SimpleAccessPlugin:
@@ -68,7 +68,7 @@ class SimpleAccessPlugin:
         Creates the plugin main menu
         """
         plugin_menu = self.iface.pluginMenu()
-        self.plugin_menu = QMenu(u"DataGrandEst", plugin_menu)
+        self.plugin_menu = QMenu(u"OPenIG", plugin_menu)
         plugin_menu.addMenu(self.plugin_menu)
 
         show_panel_action = QAction(u'Afficher le panneau latéral', self.iface.mainWindow())

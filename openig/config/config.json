@@ -1,0 +1,1650 @@
+{
+  "title": "OPenIG - version 1 du 04 Février 2022",
+  "description": "",
+  "type": "folder",
+  "children": [
+    {
+      "title": "Orthophotographie",
+      "description": "Orthophotographie IGN ",
+      "type": "folder",
+      "children": [
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Aude - Ortho 2021 IGN",
+          "description": "Orthophotographie 2021 IGN de l'Aude (11)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d11-2021_92e89d7-wmsc-15",
+            "name": "ohr_rvb_0m20_jp2-e080_lamb93_d11-2021_92e89d7",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Gard - Ortho 2021 IGN",
+          "description": "Orthophotographie IGN du Gard (30)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56-wmsc-4",
+            "name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Hérault - Ortho 2021 IGN",
+          "description": "Orthophotographie IGN de l'Hérault (34)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18-wmsc-12",
+            "name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Pyrénées-Orientales - Ortho 2021 IGN",
+          "description": "Orthophotographie 2021 IGN des Pyrénées-Orientales (66)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4-wmsc-16",
+            "name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        }
+      ]
+    },
+
+
+
+
+
+
+
+    {
+      "title": "Enneigement annuel",
+      "description": "Durée d'enneigement annuel en Occitanie",
+      "type": "folder",
+      "children": [
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Enneigement - 2017",
+          "description": "Durée d'enneigement en Occitanie en 2017 - Theia",
+          "metadata_url": "https://ckan.openig.org/dataset/synthese-annuelle-de-lenneigement-en-occitanie-produit-l3b-theia",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "synthese_scd_theia_fusion_decoupage_occitanie_20_d24abdf",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              -0.327756,
+              4.84566,
+              42.3326,
+              45.0468
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Enneigement - 2018",
+          "description": "Durée d'enneigement en Occitanie en 2018 - Theia",
+          "metadata_url": "https://ckan.openig.org/dataset/synthese-annuelle-de-lenneigement-en-occitanie-produit-l3b-theia",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "synthese_scd_theia_fusion_decoupage_occitanie_20_4d96234",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              -0.327756,
+              4.84566,
+              42.3326,
+              45.0468
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Enneigement - 2019",
+          "description": "Durée d'enneigement en Occitanie en 2019 - Theia",
+          "metadata_url": "https://ckan.openig.org/dataset/synthese-annuelle-de-lenneigement-en-occitanie-produit-l3b-theia",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "synthese_scd_theia_fusion_decoupage_occitanie_20_6f56f7c",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              -0.327756,
+              4.84566,
+              42.3326,
+              45.0468
+            ]
+          ]
+        }
+      ]
+    },
+
+
+
+
+
+    {
+      "title": "Pleiades",
+      "description": "Images satellites Pleiades",
+      "type": "folder",
+      "children": [
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Grand Auch Est - Pleiades ",
+          "description": "Pleiades GrandAuch 2020 CNES (8bits)",
+          "metadata_url": "https://ckan.openig.org/dataset/pleiades-cnes-2020-grand-auch-coeur-de-gascogne",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "ort_2020052039843717_la93_da6b099",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              0.325642,
+              0.611158,
+              43.5685,
+              43.8626
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Grand Auch Ouest - Pleiades ",
+          "description": "Pleiades GrandAuch 2020 CNES (8bits)",
+          "metadata_url": "https://ckan.openig.org/dataset/pleiades-cnes-2020-grand-auch-coeur-de-gascogne",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "ort_2020052039832856_la93_890bd9b",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              0.325642,
+              0.611158,
+              43.5685,
+              43.8626
+            ]
+          ]
+        }
+      ]
+    },
+
+
+
+
+    {
+      "title": "Occupation du sol",
+      "description": "Données concernant l'occupation du sol en Occitanie",
+      "type": "folder",
+      "children": [
+
+        {
+          "title": "OCSGE EX Midi-Pyrénées 2013",
+          "description": "Données concernant l'occupation du sol en ex-région Midi-Pyrénées en 2013",
+          "type": "folder",
+          "children": [
+
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Ariège (09) 2013",
+          "description": "Données concernant l'occupation du sol du département de l'Ariège en 2013",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2013-ariege",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d009_2013_f78c351",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              0.787469,
+              2.17586,
+              42.5687,
+              43.3607
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Aveyron (12) 2013",
+          "description": "Données concernant l'occupation du sol du département de l'Aveyron en 2013",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2013-aveyron",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d012_2013_a92fba8",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              1.77212,
+              3.45176,
+              43.6806,
+              44.9414
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Haute-Garonne (31) 2013",
+          "description": "Données concernant l'occupation du sol du département de Haute-Garonne en 2013",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2013-haute-garonne",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d031_2013_87a1a44",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              0.372177,
+              2.13222,
+              42.6893,
+              43.9993
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Gers (32) 2013",
+          "description": "Données concernant l'occupation du sol du département du Gers en 2013",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2013-gers",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d032_2013_049638b",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              -0.28565,
+              1.36492,
+              43.2861,
+              44.1029
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Lot (46) 2013",
+          "description": "Données concernant l'occupation du sol du département du Lot en 2013",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2013-lot",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d046_2013_50326fc",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              0.900977,
+              2.2557,
+              44.1283,
+              45.0523
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Hautes-Pyrénées (65) 2013",
+          "description": "Données concernant l'occupation du sol du département des Hautes-Pyrénées en 2013",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2013-hautes-pyrenees",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d065_2013_d4631a4",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              3.26245,
+              4.84557,
+              43.4605,
+              44.4749
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Tarn (81) 2013",
+          "description": "Données concernant l'occupation du sol du département du Tarn en 2013",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2013-tarn",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d081_2013_02644b8",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              1.37869,
+              2.9604,
+              43.3823,
+              44.3153
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Tarn-et-Garonne (82) 2013",
+          "description": "Données concernant l'occupation du sol du département du Tarn et Garonne en 2013",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2013-tarn-et-garonne",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d082_2013_49cec7c",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              0.688572,
+              2.17185,
+              43.6944,
+              44.4008
+            ]
+          ]
+        }
+        ]
+      },
+
+        {
+          "title": "OCSGE EX Languedoc-Roussillon 2015",
+          "description": "Données concernant l'occupation du sol en ex-région Languedoc-Roussillon en 2015",
+          "type": "folder",
+          "children": [
+
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Aude (11) 2015",
+          "description": "Données concernant l'occupation du sol du département de l'Aude en 2015",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2015-aude",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d011_2015_e0ade23",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              1.68277,
+              3.24073,
+              42.6097,
+              43.4601
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Gard (30) 2015",
+          "description": "Données concernant l'occupation du sol du département du Gard en 2015",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2015-gard",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d030_2015_b23fa0f",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              3.26245,
+              4.84557,
+              43.4605,
+              44.4749
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Hérault (34) 2015",
+          "description": "Données concernant l'occupation du sol du département de l'Hérault en 2015",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2015-herault",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d034_2015_11b3eef",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              2.53165,
+              4.19596,
+              43.2102,
+              44.1416
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Lozère (48) 2015",
+          "description": "Données concernant l'occupation du sol du département de la Lozère en 2015",
+          "metadata_url": "https://ckan.openig.org/dataset/occupation-du-sol-2015-lozere",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d048_2015_5a3d6e1",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              2.9812,
+              4.04633,
+              43.9447,
+              44.9758
+            ]
+          ]
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "OCSGE Pyrénées-orientales (66) 2015",
+          "description": "Données concernant l'occupation du sol du département des PO en 2015",
+          "metadata_url": "https://ckan.openig.org/dataset/ocs-ge-1-1-shp-lamb93-d66-2015-01xml",
+          "type": "wms_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/maps/openig",
+            "name": "occupation_sol_d066_2015_262ed0f",
+            "format": "image/png",
+            "srs": "EPSG:4326"
+          },
+          "bounding_boxes": [
+            [
+              1.72165,
+              3.17785,
+              42.333,
+              42.9497
+            ]
+          ]
+        }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "title": "Données pédologiques",
+    "description": "Données sols en Occitanie",
+    "type": "folder",
+    "children": [
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "BDSol L-R (version Donesol 3)",
+        "description": "BDSol (version Donesol 3) Languedoc-Roussillon",
+        "metadata_url": "https://ckan.openig.org/dataset/donnees-sol",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "bd_sol_88510c6",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        },
+        "bounding_boxes": [
+          [
+            1.69057,
+            4.84592,
+            42.3342,
+            44.9703
+          ]
+        ]
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Réserves utiles des sols L-R",
+        "description": "Réserves utiles des sols en Languedoc-Roussillon",
+        "metadata_url": "https://ckan.openig.org/dataset/reserves-utiles-des-sols-du-languedoc-roussillon",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "bdsol_ru_0ae992a",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        },
+        "bounding_boxes": [
+          [
+            1.69057,
+            4.84592,
+            42.3342,
+            44.9703
+          ]
+        ]
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "RU ex L-R - Valeur prédite (200cm)",
+        "description": "Réserves utiles des sols L-R - Valeur prédite (200cm)",
+        "metadata_url": "https://ckan.openig.org/dataset/cartes-numeriques-du-reservoir-utile-des-sols-en-languedoc-roussillon",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "prediction_ru_200_2154_b65db19",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        },
+        "bounding_boxes": [
+          [
+            1.65043,
+            4.87711,
+            42.3202,
+            44.971
+          ]
+        ]
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "RU ex L-R - Incertitude de prédiction (200cm)",
+        "description": "Réserves utiles des sols L-R - Incertitude de prédiction (200cm)",
+        "metadata_url": "https://ckan.openig.org/dataset/cartes-numeriques-du-reservoir-utile-des-sols-en-languedoc-roussillon",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "prediction_uncertainty_200_2154_30b191f",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        },
+        "bounding_boxes": [
+          [
+            1.65043,
+            4.87711,
+            42.3202,
+            44.971
+          ]
+        ]
+      },
+
+
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Indice de Qualité des Sols L-R",
+        "description": "Indice de Qualité des Sols Languedoc-Roussillon",
+        "metadata_url": "https://ckan.openig.org/dataset/indice-de-qualite-des-sols-du-languedoc-roussillon",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "bdsol_iqs_a48ba56",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        },
+        "bounding_boxes": [
+          [
+            1.69057,
+            4.84592,
+            42.3342,
+            44.9703
+          ]
+        ]
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Classes des potentiel agronomique des sols (CPAS) L-R",
+        "description": "Classes des potentiel agronomique des sols (CPAS) L-R",
+        "metadata_url": "https://ckan.openig.org/dataset/classe-de-potentiel-agronomique-des-sols-en-languedoc-roussillon",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "bdsol_iqs_ad6bcb5",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        },
+        "bounding_boxes": [
+          [
+            1.69057,
+            4.84592,
+            42.3342,
+            44.9703
+          ]
+        ]
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Superficie initiale des CPAS à la commune LR",
+        "description": "Superficie initiale des classes de potentiel agronomique des sols agrégée à l'échelle communale de l'ex-région LR",
+        "metadata_url": "https://ckan.openig.org/dataset/classe-de-potentiel-agronomique-des-sols-en-languedoc-roussillon",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "comcpas_l93_3afbd47",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        },
+        "bounding_boxes": [
+          [
+            1.69057,
+            4.84592,
+            42.3342,
+            44.9703
+          ]
+        ]
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Aléa érosif LR",
+        "description": "Données sur la modélisation de l'aléa érosif en Languedoc-Roussillon",
+        "metadata_url": "https://ckan.openig.org/dataset/alea-erosif-en-languedoc-roussillon",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "erosion_com_lr_l93_e727096",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        },
+        "bounding_boxes": [
+          [
+            1.69057,
+            4.84592,
+            42.3342,
+            44.9703
+          ]
+        ]
+      }
+    ]
+  },
+
+
+
+  {
+    "title": "BD HAIE v1 - Occitanie 2020",
+    "description": "BD HAIE v1 IGN - Occitanie 2020",
+    "type": "folder",
+    "children": [
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Ariège (09) 2020",
+        "description": "DNSB HAIES v1 - Ariège (09) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_745e220",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Aude (11) 2020",
+        "description": "DNSB HAIES v1 - Aude (11) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_1f2ac3e",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Aveyron (12) 2020",
+        "description": "DNSB HAIES v1 - Aveyron (12) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_b50838d",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Gard (30) 2020",
+        "description": "DNSB HAIES v1 - Gard (30) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_610a742",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Haute-Garonne (31) 2020",
+        "description": "DNSB HAIES v1 - Haute-Garonne (31) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_15ac92f",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Gers (32) 2020",
+        "description": "DNSB HAIES v1 - Gers (32) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_36765d8",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Hérault (34) 2020",
+        "description": "DNSB HAIES v1 - Hérault (34) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_0a3d66b",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Lot (46) 2020",
+        "description": "DNSB HAIES v1 - Lot (46) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_b4c574f",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Lozère (48) 2020",
+        "description": "DNSB HAIES v1 - Lozère (48) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_3e0d705",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Hautes-Pyrénées (65) 2020",
+        "description": "DNSB HAIES v1 - Hautes-Pyrénées (65) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_68ee91a",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Pyrénées-Orientales (66) 2020",
+        "description": "DNSB HAIES v1 - Pyrénées-Orientales (66) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_37c1e76",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Tarn (81) 2020",
+        "description": "DNSB HAIES v1 - Tarn (81) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_6c27c0a",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "DNSB HAIES - Tarn-et-Garonne (82) 2020",
+        "description": "DNSB HAIES v1 - Tarn-et-Garonne (82) 2020",
+        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "haie_lineaire_8acff36",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      }
+    ]
+  },
+
+
+
+
+  {
+    "title": "Modèle numérique de terrain (MNT)",
+    "description": "Modèle numérique de terrain (MNT)",
+    "type": "folder",
+    "children": [
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "MNT 2012 L-R",
+        "description": "Modèle Numérique de Terrain 2012 OPenIG (Ex SIG L-R) en Languedoc-Roussillon",
+        "metadata_url": "https://ckan.openig.org/dataset/mnt",
+        "type": "wmts_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/mapcache/",
+          "tilematrixset_name": "siglr_mnt_lr_ad5a80f-wmsc-3",
+          "name": "siglr_mnt_lr_ad5a80f",
+          "format": "image/png",
+          "srs": "EPSG:3857"
+        }
+      }
+    ]
+  },
+
+
+  {
+    "title": "SCAN",
+    "description": "SCAN IGN",
+    "type": "folder",
+    "children": [
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "SCAN 50® Historique",
+        "description": "SCAN 50® Historique - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-historique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/mapcache/",
+          "tilematrixset_name": "scan50_historique_dd2ab07-wmsc-10",
+          "name": "scan50_historique_dd2ab07",
+          "format": "image/png",
+          "srs": "EPSG:3857"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "SCAN Régional®",
+        "description": "SCAN Régional® - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-regional",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/mapcache/",
+          "tilematrixset_name": "ign_scanreg_e134dea-wmsc-21",
+          "name": "ign_scanreg_e134dea",
+          "format": "image/png",
+          "srs": "EPSG:3857"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "SCAN Etat-Major® Occitanie",
+        "description": "SCAN Etat-Major® 40K Occitanie - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-etat-major",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/mapcache/",
+          "tilematrixset_name": "scanem40k_87170fe-wmsc-7",
+          "name": "scanem40k_87170fe",
+          "format": "image/png",
+          "srs": "EPSG:3857"
+        }
+      },
+
+
+      {
+        "title": "SCAN 25® Classique",
+        "description": "SCAN 25® Classique - IGN",
+        "type": "folder",
+        "children": [
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Ariège",
+        "description": "Scan25 Classique 2018 Ariège - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d09_2337511",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Aude",
+        "description": "Scan25 Classique 2018 Aude - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d11_3dd9f1f",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Aveyron",
+        "description": "Scan25 Classique 2018 Aveyron - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d12_19098a1",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Gard",
+        "description": "Scan25 Classique 2018 Gard - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d30_f3a731d",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Haute-Garonne",
+        "description": "Scan25 Classique 2018 Haute-Garonne - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d31_2f1a193",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Gers",
+        "description": "Scan25 Classique 2018 Gers - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d32_bdcbcc4",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Hérault",
+        "description": "Scan25 Classique 2018 Hérault - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d34_dddcec9",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Lot",
+        "description": "Scan25 Classique 2018 Lot - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d46_947532b",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Lozère",
+        "description": "Scan25 Classique 2018 Lozère - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d48_4bbc13a",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Hautes-Pyrénées",
+        "description": "Scan25 Classique 2018 Hautes-Pyrénées - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d65_2f996be",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Pyrénées Orientales",
+        "description": "Scan25 Classique 2018 Pyrénées Orientales - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d66_b755ac5",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Tarn",
+        "description": "Scan25 Classique 2018 Tarn - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d81_35fa38a",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Classique 2018 Tarn-et-Garonne",
+        "description": "Scan25 Classique 2018 Tarn-et-Garonne - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-classique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "scexp25_cls_jp2-e100_lamb93_d82_4cd2ef6",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      }
+    ]
+  },
+
+
+  {
+    "title": "SCAN 25® Standard",
+    "description": "SCAN 25® Standard - IGN",
+    "type": "folder",
+    "children": [
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Ariège",
+    "description": "Scan25 Standard 2018 Ariège - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d09_3f845fe",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Aude",
+    "description": "Scan25 Standard 2018 Aude - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d11_2485458",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Aveyron",
+    "description": "Scan25 Standard 2018 Aveyron - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d12_ee7a586",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Gard",
+    "description": "Scan25 Standard 2018 Gard - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d30_06f8cf2",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Haute-Garonne",
+    "description": "Scan25 Standard 2018 Haute-Garonne - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d31_b2d97e3",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Gers",
+    "description": "Scan25 Standard 2018 Gers - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d32_f20a5ab",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Hérault",
+    "description": "Scan25 Standard 2018 Hérault - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d34_7d24d6b",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Lot",
+    "description": "Scan25 Standard 2018 Lot - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d46_5cb91a2",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Lozère",
+    "description": "Scan25 Standard 2018 Lozère - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d48_0fae4df",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Hautes-Pyrénées",
+    "description": "Scan25 Standard 2018 Hautes-Pyrénées - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d65_602bd3d",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Pyrénées Orientales",
+    "description": "Scan25 Standard 2018 Pyrénées Orientales - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d66_7a7da7a",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Tarn",
+    "description": "Scan25 Standard 2018 Tarn - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d81_c502bab",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Standard 2018 Tarn-et-Garonne",
+    "description": "Scan25 Standard 2018 Tarn-et-Garonne - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-25-standard",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "scexp25_std_jp2-e100_lamb93_d82_954e122",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  }
+]
+},
+
+
+      {
+        "title": "SCAN 25® Touristique",
+        "description": "SCAN 25® Touristique - IGN",
+        "type": "folder",
+        "children": [
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Ariège",
+        "description": "Scan25 Touristique 2018 Ariège - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d09_f6c09e8",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Aude",
+        "description": "Scan25 Touristique 2018 Aude - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d11_63e1fb9",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Aveyron",
+        "description": "Scan25 Touristique 2018 Aveyron - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d12_e4e16b8",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Gard",
+        "description": "Scan25 Touristique 2018 Gard - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d30_e164016",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Haute-Garonne",
+        "description": "Scan25 Touristique 2018 Haute-Garonne - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d31_9860026",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Gers",
+        "description": "Scan25 Touristique 2018 Gers - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d32_e585178",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Hérault",
+        "description": "Scan25 Touristique 2018 Hérault - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d34_22617aa",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Lot",
+        "description": "Scan25 Touristique 2018 Lot - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d46_aa6dce5",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Lozère",
+        "description": "Scan25 Touristique 2018 Lozère - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d48_64df12b",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Hautes-Pyrénées",
+        "description": "Scan25 Touristique 2018 Hautes-Pyrénées - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d65_5abcb81",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Pyrénées Orientales",
+        "description": "Scan25 Touristique 2018 Pyrénées Orientales - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d66_4391d7e",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Tarn",
+        "description": "Scan25 Touristique 2018 Tarn - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d81_1a9e7e8",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      },
+      {
+        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+        "title": "Scan25 Touristique 2018 Tarn-et-Garonne",
+        "description": "Scan25 Touristique 2018 Tarn-et-Garonne - IGN",
+        "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
+        "type": "wms_layer",
+        "params": {
+          "url": "https://mapserver.openig.org/maps/openig",
+          "name": "sc25_tour_jp2-e100_lamb93_d82_83dbe1b",
+          "format": "image/png",
+          "srs": "EPSG:4326"
+        }
+      }
+    ]
+  },
+  {
+    "title": "SCAN 25® Topographique",
+    "description": "SCAN 25® Topographique - IGN",
+    "type": "folder",
+    "children": [
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Ariège",
+    "description": "Scan25 Topographique 2018 Ariège - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d09_8f5762d",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Aude",
+    "description": "Scan25 Topographique 2018 Aude - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d11_71de4eb",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Aveyron",
+    "description": "Scan25 Topographique 2018 Aveyron - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d12_8c2053d",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Gard",
+    "description": "Scan25 Topographique 2018 Gard - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d30_ac5415a",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Haute-Garonne",
+    "description": "Scan25 Topographique 2018 Haute-Garonne - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d31_21bcd34",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Gers",
+    "description": "Scan25 Topographique 2018 Gers - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d32_a7b79f5",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Hérault",
+    "description": "Scan25 Topographique 2018 Hérault - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d34_a0e34f8",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Lot",
+    "description": "Scan25 Topographique 2018 Lot - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d46_45ac667",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Lozère",
+    "description": "Scan25 Topographique 2018 Lozère - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d48_567dec6",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Hautes-Pyrénées",
+    "description": "Scan25 Topographique 2018 Hautes-Pyrénées - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d65_635bbbc",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Pyrénées Orientales",
+    "description": "Scan25 Topographique 2018 Pyrénées Orientales - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d66_c19e31f",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Tarn",
+    "description": "Scan25 Topographique 2018 Tarn - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d81_3388d52",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  },
+  {
+    "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+    "title": "Scan25 Topographique 2018 Tarn-et-Garonne",
+    "description": "Scan25 Topographique 2018 Tarn-et-Garonne - IGN",
+    "metadata_url": "https://ckan.openig.org/dataset/scan-ign-topographique",
+    "type": "wms_layer",
+    "params": {
+      "url": "https://mapserver.openig.org/maps/openig",
+      "name": "sc25_topo_jp2-e100_lamb93_d82_c843727",
+      "format": "image/png",
+      "srs": "EPSG:4326"
+    }
+  }
+]
+}
+    ]
+  }
+
+
+
+  ]
+}

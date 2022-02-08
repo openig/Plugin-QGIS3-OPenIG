@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import os
-from datagrandest.utils.singleton import Singleton
+from openig.utils.singleton import Singleton
 from qgis.PyQt.QtCore import QSettings
 
 
@@ -14,7 +14,7 @@ class PluginGlobals:
     plugin_path = None
 
     # Plugin infos
-    PLUGIN_TAG = u"DataGrandEst"
+    PLUGIN_TAG = u"OPenIG"
     #PLUGIN_TAG = u"indigeo"
     PLUGIN_VERSION = u"0.1"
     PLUGIN_SOURCE_REPOSITORY = u"https://github.com/geograndest/qgis-plugin"
@@ -34,7 +34,7 @@ class PluginGlobals:
 
     # Images dir
     IMAGES_DIR_NAME = "images"
-    LOGO_FILE_NAME = "datagrandest.png"
+    LOGO_FILE_NAME = "LOGO_OPenIG_complet_quadri.png"
 
     ICON_WARN_FILE_NAME = "Icon_Simple_Warn.png"
     ICON_WMS_LAYER_FILE_NAME = "mIconWms.svg"
@@ -46,7 +46,7 @@ class PluginGlobals:
     CONFIG_FILES_DOWNLOAD_AT_STARTUP = True
     CONFIG_DIR_NAME = "config"
     CONFIG_FILE_NAMES = ["config.json"]
-    CONFIG_FILE_URLS = ["https://www.datagrandest.fr/tools/plugin-qgis-datagrandest/config.json"]
+    CONFIG_FILE_URLS = ["https://mviewer.openig.org/poc_fute_ocs/config.json"]
 
     # Hide resources with status = warn
     HIDE_RESOURCES_WITH_WARN_STATUS = True
@@ -57,7 +57,7 @@ class PluginGlobals:
     def __init__(self):
         """
         """
-    
+
         self.default_qsettings = {
             "CONFIG_FILES_DOWNLOAD_AT_STARTUP": self.CONFIG_FILES_DOWNLOAD_AT_STARTUP,
             "CONFIG_FILE_NAMES": self.CONFIG_FILE_NAMES,
@@ -104,12 +104,12 @@ class PluginGlobals:
         self.CONFIG_FILE_NAMES = s.value(u"{0}/config_file_names".format(self.PLUGIN_TAG), self.CONFIG_FILE_NAMES)
 
         self.CONFIG_FILE_URLS = s.value(u"{0}/config_file_urls".format(self.PLUGIN_TAG), self.CONFIG_FILE_URLS)
-        
+
         # False by default so that parameter is checked the 1st time user opens plugin, else invert
         self.HIDE_RESOURCES_WITH_WARN_STATUS = False if s.value(
             u"{0}/hide_resources_with_warn_status".format(self.PLUGIN_TAG),
             self.HIDE_RESOURCES_WITH_WARN_STATUS) == u"0" else True
-        
+
         # False by default so that parameter is checked the 1st time user opens plugin, else invert
         self.HIDE_EMPTY_GROUPS = False if s.value(
             u"{0}/hide_empty_groups".format(self.PLUGIN_TAG), self.HIDE_EMPTY_GROUPS) == u"0" else True
@@ -131,7 +131,7 @@ class PluginGlobals:
         s.setValue(u"{0}/config_files_download_at_startup".format(self.PLUGIN_TAG), u"1")#0
         s.setValue(u"{0}/config_file_names".format(self.PLUGIN_TAG), ["config.json"])
         s.setValue(u"{0}/config_file_urls".format(self.PLUGIN_TAG),
-                   ["https://www.datagrandest.fr/tools/plugin-qgis-datagrandest/config.json"])
+                   ["https://mviewer.openig.org/poc_fute_ocs/config.json"])
 
     def get_qgis_setting_default_value(self, setting):
         """

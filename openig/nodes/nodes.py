@@ -2,8 +2,8 @@
 
 import os
 
-from datagrandest.utils.plugin_globals import PluginGlobals
-from datagrandest.utils.plugin_icons import PluginIcons
+from openig.utils.plugin_globals import PluginGlobals
+from openig.utils.plugin_icons import PluginIcons
 
 
 class FavoritesTreeNode:

@@ -3,7 +3,7 @@
 from qgis.PyQt.QtWidgets import QWidget, QDialog, QVBoxLayout, QLabel, QTextBrowser, QFrame
 from qgis.PyQt.QtGui import QPixmap
 
-from datagrandest.utils.plugin_globals import PluginGlobals
+from openig.utils.plugin_globals import PluginGlobals
 
 
 class AboutBox(QDialog):
@@ -23,8 +23,8 @@ class AboutBox(QDialog):
         mainLayout.addWidget(self.logo)
 
 
-        title = u"À propos de l'extension DataGrandEst…"
-        description1 = """Extension pour QGIS donnant un accès simplifié aux ressources géographiques de <a href="https://www.datagrandest.fr/">DataGrandEst</a> Version {}<br>""".format(PluginGlobals.instance().PLUGIN_VERSION)
+        title = u"À propos de l'extension OPenIG"
+        description1 = """Extension pour QGIS donnant un accès simplifié aux ressources géographiques de <a href="https://www.openig.org/">OPenIG</a> Version {}<br>""".format(PluginGlobals.instance().PLUGIN_VERSION)
         description2 = """Plus d'informations à l'adresse suivante :<br><a href='{0}'>{0}</a><br>""".format(PluginGlobals.instance().PLUGIN_SOURCE_REPOSITORY)
         description3 = """Merci aux créateurs des plugins <a href="https://github.com/geo2france/idg-qgis3-plugin">Géo2France </a>, <a href="contact@bchartier.net">Benjamin CHARTIER</a>, <a href="https://github.com/geobretagne/qgis-plugin">Géobretagne</a> et <a href="https://gitlab.in2p3.fr/letg/indigeo-for-qgis">Indigéo </a>sur lesquels ce plugin est basé !"""
 

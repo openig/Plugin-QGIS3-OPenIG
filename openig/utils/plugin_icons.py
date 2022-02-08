@@ -6,8 +6,8 @@ from qgis.PyQt.QtWidgets import QStyle
 from qgis.core import QgsApplication
 import os
 
-from datagrandest.utils.plugin_globals import PluginGlobals
-from datagrandest.utils.singleton import Singleton
+from openig.utils.plugin_globals import PluginGlobals
+from openig.utils.singleton import Singleton
 
 
 @Singleton
