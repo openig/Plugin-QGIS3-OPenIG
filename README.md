@@ -1,4 +1,6 @@
 # qgis-plugin
-Plugin pour QGIS 3 fournissant un accès simple aux flux de géographiques WMS et WFS de DataGrandEst et d'autres ressources géographiques utiles en région Grand Est.
+Plugin pour QGIS 3 fournissant un accès simplifié aux flux géographiques WMS d'OPenIG.
 
-https://github.com/geograndest/qgis-plugin
+https://github.com/openig/qgis-plugin
+
+Ceci est un fork du projet réalisé par DataGrandEst : https://github.com/geograndest/qgis-plugin
