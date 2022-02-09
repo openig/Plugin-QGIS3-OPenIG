@@ -10,6 +10,20 @@
       "children": [
         {
           "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Ariège - Ortho 2019 IGN",
+          "description": "Orthophotographie 2019 IGN de l'Ariège (09)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "09_2019_express_20cm_jp2_fd9b406-wmsc-5",
+            "name": "09_2019_express_20cm_jp2_fd9b406",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
           "title": "Aude - Ortho 2021 IGN",
           "description": "Orthophotographie 2021 IGN de l'Aude (11)",
           "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
@@ -24,14 +38,56 @@
         },
         {
           "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Aveyron - Ortho 2019 IGN",
+          "description": "Orthophotographie 2019 IGN de l'Aveyron (12)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ortho12_4fc8316-wmsc-14",
+            "name": "ortho12_4fc8316",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
           "title": "Gard - Ortho 2021 IGN",
-          "description": "Orthophotographie IGN du Gard (30)",
+          "description": "Orthophotographie 2021 IGN du Gard (30)",
           "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
             "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56-wmsc-4",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Haute-Garonne - Ortho 2019 IGN",
+          "description": "Orthophotographie 2019 IGN de la Haute-Garonne (31)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ortho31_7252f7f-wmsc-19",
+            "name": "ortho31_7252f7f",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Gers - Ortho 2019 IGN",
+          "description": "Orthophotographie 2019 IGN du Gers (32)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ortho32_aaf5c8a-wmsc-22",
+            "name": "ortho32_aaf5c8a",
             "format": "image/png",
             "srs": "EPSG:3857"
           }
@@ -46,6 +102,48 @@
             "url": "https://mapserver.openig.org/mapcache/",
             "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18-wmsc-12",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Lot - Ortho 2019 IGN",
+          "description": "Orthophotographie 2019 IGN du Lot (46)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ortho46_25a17cf-wmsc-0",
+            "name": "ortho46_25a17cf",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Lozère - Ortho 2018 IGN",
+          "description": "Orthophotographie 2018 IGN de la Lozère (48)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ortho48_9c1c1cf-wmsc-18",
+            "name": "ortho48_9c1c1cf",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Hautes-Pyrénées - Ortho 2019 IGN",
+          "description": "Orthophotographie 2019 IGN des Hautes-Pyrénées (65)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4-wmsc-16",
+            "name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4",
             "format": "image/png",
             "srs": "EPSG:3857"
           }
@@ -77,13 +175,23 @@
             "format": "image/png",
             "srs": "EPSG:3857"
           }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Tarn & Garonne - Ortho 2019 IGN",
+          "description": "Orthophotographie 2019 IGN du Tarn & Garonne (82)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ortho82_4f1b851-wmsc-17",
+            "name": "ortho82_4f1b851",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
         }
       ]
     },
-
-
-
-
 
 
 
