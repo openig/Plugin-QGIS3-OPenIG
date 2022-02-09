@@ -63,6 +63,20 @@
             "format": "image/png",
             "srs": "EPSG:3857"
           }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Tarn - Ortho 2020 IGN",
+          "description": "Orthophotographie 2020 IGN du Tarn (81)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "81_17e5a66-wmsc-6",
+            "name": "81_17e5a66",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
         }
       ]
     },
