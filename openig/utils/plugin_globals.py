@@ -17,7 +17,7 @@ class PluginGlobals:
     PLUGIN_TAG = u"OPenIG"
     #PLUGIN_TAG = u"indigeo"
     PLUGIN_VERSION = u"0.1"
-    PLUGIN_SOURCE_REPOSITORY = u"https://github.com/openig/qgis-plugin"
+    PLUGIN_SOURCE_REPOSITORY = u"https://github.com/openig/Plugin-QGIS3-OPenIG"
 
     # Tree nodes types
     NODE_TYPE_FOLDER = "folder"
@@ -46,7 +46,7 @@ class PluginGlobals:
     CONFIG_FILES_DOWNLOAD_AT_STARTUP = True
     CONFIG_DIR_NAME = "config"
     CONFIG_FILE_NAMES = ["config.json"]
-    CONFIG_FILE_URLS = ["https://raw.githubusercontent.com/openig/qgis-plugin/master/openig/config/config.json"]
+    CONFIG_FILE_URLS = ["https://raw.githubusercontent.com/openig/Plugin-QGIS3-OPenIG/master/openig/config/config.json"]
 
     # Hide resources with status = warn
     HIDE_RESOURCES_WITH_WARN_STATUS = True

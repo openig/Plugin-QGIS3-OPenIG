@@ -128,8 +128,8 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho48_9c1c1cf-wmsc-18",
-            "name": "ortho48_9c1c1cf",
+            "tilematrixset_name": "mapserver_c593e84-wmsc-6",
+            "name": "mapserver_c593e84",
             "format": "image/png",
             "srs": "EPSG:3857"
           }
@@ -639,15 +639,7 @@
           "name": "bd_sol_88510c6",
           "format": "image/png",
           "srs": "EPSG:4326"
-        },
-        "bounding_boxes": [
-          [
-            1.69057,
-            4.84592,
-            42.3342,
-            44.9703
-          ]
-        ]
+        }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
@@ -800,186 +792,6 @@
       }
     ]
   },
-
-
-
-  {
-    "title": "BD HAIE v1 - Occitanie 2020",
-    "description": "BD HAIE v1 IGN - Occitanie 2020",
-    "type": "folder",
-    "children": [
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Ariège (09) 2020",
-        "description": "DNSB HAIES v1 - Ariège (09) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_745e220",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Aude (11) 2020",
-        "description": "DNSB HAIES v1 - Aude (11) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_1f2ac3e",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Aveyron (12) 2020",
-        "description": "DNSB HAIES v1 - Aveyron (12) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_b50838d",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Gard (30) 2020",
-        "description": "DNSB HAIES v1 - Gard (30) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_610a742",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Haute-Garonne (31) 2020",
-        "description": "DNSB HAIES v1 - Haute-Garonne (31) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_15ac92f",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Gers (32) 2020",
-        "description": "DNSB HAIES v1 - Gers (32) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_36765d8",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Hérault (34) 2020",
-        "description": "DNSB HAIES v1 - Hérault (34) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_0a3d66b",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Lot (46) 2020",
-        "description": "DNSB HAIES v1 - Lot (46) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_b4c574f",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Lozère (48) 2020",
-        "description": "DNSB HAIES v1 - Lozère (48) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_3e0d705",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Hautes-Pyrénées (65) 2020",
-        "description": "DNSB HAIES v1 - Hautes-Pyrénées (65) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_68ee91a",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Pyrénées-Orientales (66) 2020",
-        "description": "DNSB HAIES v1 - Pyrénées-Orientales (66) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_37c1e76",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Tarn (81) 2020",
-        "description": "DNSB HAIES v1 - Tarn (81) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_6c27c0a",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "DNSB HAIES - Tarn-et-Garonne (82) 2020",
-        "description": "DNSB HAIES v1 - Tarn-et-Garonne (82) 2020",
-        "metadata_url": "https://ckan.openig.org/dataset/bd-haie-v1-occitanie-2020",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "haie_lineaire_8acff36",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      }
-    ]
-  },
-
 
 
 

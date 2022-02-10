@@ -1,16 +1,16 @@
 [general]
 name=OPenIG
 description=Plugin pour QGIS 3 fournissant un accès simple aux flux de géographiques WMS et WFS d'OPenIG et d'autres ressources géographiques utiles en région Occitanie.
-version=2
+version=1
 qgisMinimumVersion=3.00
 qgisMaximumVersion=3.99
-author=Neogeo Technologies
+author=Neogeo Technologies / OPengIG / DataGrandEst
 email=contact@openig.org
 icon=images/LOGO_OPenIG_complet_quadri.png
 experimental=False
 deprecated=False
 about=Plugin for QGIS 3 providing simple access to WMS and WFS geographic flows from OPenIG and other useful geographic resources in the Occitanie region.
-tracker=https://github.com/openig/qgis-plugin/issues
-repository=https://github.com/openig/qgis-plugin
-homepage=https://github.com/openig/qgis-plugin/wiki
+tracker=https://github.com/openig/Plugin-QGIS3-OPenIG/issues
+repository=https://github.com/openig/Plugin-QGIS3-OPenIG
+homepage=https://github.com/openig/Plugin-QGIS3-OPenIG/wiki
 tags=OPenIG, OPENIG, openig, occitanie, siglr,
