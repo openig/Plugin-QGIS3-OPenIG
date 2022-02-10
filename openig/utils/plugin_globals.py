@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import os
-from OPenIG.utils.singleton import Singleton
+from openig.utils.singleton import Singleton
 from qgis.PyQt.QtCore import QSettings
 
 

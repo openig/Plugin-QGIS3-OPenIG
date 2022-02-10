@@ -4,8 +4,8 @@ from qgis.PyQt.QtWidgets import QTreeWidget, QAbstractItemView, QMessageBox, QTr
 from qgis.PyQt.QtCore import Qt, QByteArray, QDataStream, QIODevice
 from qgis.core import Qgis, QgsMessageLog
 
-from OPenIG.gui.tree_items import TreeWidgetItem
-from OPenIG.utils.plugin_globals import PluginGlobals
+from openig.gui.tree_items import TreeWidgetItem
+from openig.utils.plugin_globals import PluginGlobals
 
 
 class TreeWidget(QTreeWidget):

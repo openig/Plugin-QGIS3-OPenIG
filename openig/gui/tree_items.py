@@ -3,7 +3,7 @@
 from qgis.PyQt.QtWidgets import QTreeWidgetItem, QMenu
 from qgis.PyQt.QtCore import Qt
 
-from OPenIG.utils.plugin_globals import PluginGlobals
+from openig.utils.plugin_globals import PluginGlobals
 
 
 def expand_item_and_subitems(item):

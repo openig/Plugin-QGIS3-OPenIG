@@ -4,12 +4,12 @@ from qgis.PyQt.QtCore import Qt
 from qgis.PyQt.QtWidgets import QWidget, QDockWidget, QVBoxLayout, QLineEdit, QComboBox, QMessageBox
 from qgis.utils import iface
 
-from OPenIG.gui.tree_widget import TreeWidget
+from openig.gui.tree_widget import TreeWidget
 
 
 class DockWidget(QDockWidget):
     """
-    The dock widget containing the tree view displaying the openig resources
+    The dock widget containing the tree view displaying the OPenIG resources
     """
 
     def __init__(self, parent = None):
@@ -22,7 +22,7 @@ class DockWidget(QDockWidget):
     def init_gui(self):
         """
         """
-        self.setWindowTitle(u'openig')
+        self.setWindowTitle(u'OPenIG')
         self.setAllowedAreas(Qt.LeftDockWidgetArea | Qt.RightDockWidgetArea)
 
         # Search bar.
