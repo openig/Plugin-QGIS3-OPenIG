@@ -5,12 +5,12 @@ from qgis.PyQt.QtCore import Qt
 
 import os.path
 
-from openig.utils.plugin_globals import PluginGlobals
-from openig.gui.dock import DockWidget
-from openig.gui.about_box import AboutBox
-from openig.gui.param_box import ParamBox
-from openig.nodes.tree_node_factory import TreeNodeFactory
-from openig.nodes.tree_node_factory import download_tree_config_file
+from OPenIG.utils.plugin_globals import PluginGlobals
+from OPenIG.gui.dock import DockWidget
+from OPenIG.gui.about_box import AboutBox
+from OPenIG.gui.param_box import ParamBox
+from OPenIG.nodes.tree_node_factory import TreeNodeFactory
+from OPenIG.nodes.tree_node_factory import download_tree_config_file
 
 
 class SimpleAccessPlugin:

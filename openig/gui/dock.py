@@ -4,7 +4,7 @@ from qgis.PyQt.QtCore import Qt
 from qgis.PyQt.QtWidgets import QWidget, QDockWidget, QVBoxLayout, QLineEdit, QComboBox, QMessageBox
 from qgis.utils import iface
 
-from openig.gui.tree_widget import TreeWidget
+from OPenIG.gui.tree_widget import TreeWidget
 
 
 class DockWidget(QDockWidget):

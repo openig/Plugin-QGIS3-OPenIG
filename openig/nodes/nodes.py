@@ -2,8 +2,8 @@
 
 import os
 
-from openig.utils.plugin_globals import PluginGlobals
-from openig.utils.plugin_icons import PluginIcons
+from OPenIG.utils.plugin_globals import PluginGlobals
+from OPenIG.utils.plugin_icons import PluginIcons
 
 
 class FavoritesTreeNode:

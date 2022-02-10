@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import os
-from openig.utils.singleton import Singleton
+from OPenIG.utils.singleton import Singleton
 from qgis.PyQt.QtCore import QSettings
 
 
@@ -131,7 +131,7 @@ class PluginGlobals:
         s.setValue(u"{0}/config_files_download_at_startup".format(self.PLUGIN_TAG), u"1")#0
         s.setValue(u"{0}/config_file_names".format(self.PLUGIN_TAG), ["config.json"])
         s.setValue(u"{0}/config_file_urls".format(self.PLUGIN_TAG),
-                   ["https://mviewer.openig.org/poc_fute_ocs/config.json"])
+                   ["https://raw.githubusercontent.com/openig/Plugin-QGIS3-OPenIG/master/openig/config/config.json"])
 
     def get_qgis_setting_default_value(self, setting):
         """

@@ -3,7 +3,7 @@
 from qgis.PyQt.QtWidgets import QWidget, QDialog, QVBoxLayout, QLabel, QTextBrowser, QFrame
 from qgis.PyQt.QtGui import QPixmap
 
-from openig.utils.plugin_globals import PluginGlobals
+from OPenIG.utils.plugin_globals import PluginGlobals
 
 
 class AboutBox(QDialog):

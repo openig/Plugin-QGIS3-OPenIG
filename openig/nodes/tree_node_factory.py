@@ -6,7 +6,7 @@ import requests
 
 from qgis.core import Qgis, QgsMessageLog
 
-from openig.utils.plugin_globals import PluginGlobals
+from OPenIG.utils.plugin_globals import PluginGlobals
 from .nodes import WmsLayerTreeNode, WmsStyleLayerTreeNode, WmtsLayerTreeNode, WfsFeatureTypeTreeNode
 from .nodes import WfsFeatureTypeFilterTreeNode, GdalWmsConfigFileTreeNode, FolderTreeNode
 

@@ -6,9 +6,9 @@ from qgis.PyQt.QtCore import Qt
 from qgis.core import *
 from qgis.gui import *
 
-from openig.utils.plugin_globals import PluginGlobals
-from openig.nodes.tree_node_factory import TreeNodeFactory
-from openig.nodes.tree_node_factory import download_tree_config_file
+from OPenIG.utils.plugin_globals import PluginGlobals
+from OPenIG.nodes.tree_node_factory import TreeNodeFactory
+from OPenIG.nodes.tree_node_factory import download_tree_config_file
 
 
 class ParamBox(QDialog):
