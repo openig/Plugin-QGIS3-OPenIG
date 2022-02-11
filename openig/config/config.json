@@ -16,7 +16,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "09_2019_express_20cm_jp2_fd9b406-wmsc-5",
+            "tilematrixset_name": "09_2019_express_20cm_jp2_fd9b406-wmsc-14",
             "name": "09_2019_express_20cm_jp2_fd9b406",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -30,7 +30,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d11-2021_92e89d7-wmsc-15",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d11-2021_92e89d7-wmsc-1",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d11-2021_92e89d7",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -44,7 +44,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho12_4fc8316-wmsc-14",
+            "tilematrixset_name": "ortho12_4fc8316-wmsc-0",
             "name": "ortho12_4fc8316",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -58,7 +58,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56-wmsc-4",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56-wmsc-13",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -72,7 +72,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho31_7252f7f-wmsc-19",
+            "tilematrixset_name": "ortho31_7252f7f-wmsc-4",
             "name": "ortho31_7252f7f",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -86,7 +86,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho32_aaf5c8a-wmsc-22",
+            "tilematrixset_name": "ortho32_aaf5c8a-wmsc-7",
             "name": "ortho32_aaf5c8a",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -95,12 +95,12 @@
         {
           "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
           "title": "Hérault - Ortho 2021 IGN",
-          "description": "Orthophotographie IGN de l'Hérault (34)",
+          "description": "Orthophotographie 2021 IGN de l'Hérault (34)",
           "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18-wmsc-12",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18-wmsc-17",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -114,7 +114,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho46_25a17cf-wmsc-0",
+            "tilematrixset_name": "ortho46_25a17cf-wmsc-8",
             "name": "ortho46_25a17cf",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -142,8 +142,8 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4-wmsc-16",
-            "name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4",
+            "tilematrixset_name": "ortho65_f00b246-wmsc-16",
+            "name": "ortho65_f00b246",
             "format": "image/png",
             "srs": "EPSG:3857"
           }
@@ -156,7 +156,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4-wmsc-16",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4-wmsc-3",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -170,7 +170,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "81_17e5a66-wmsc-6",
+            "tilematrixset_name": "81_17e5a66-wmsc-12",
             "name": "81_17e5a66",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -184,7 +184,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho82_4f1b851-wmsc-17",
+            "tilematrixset_name": "ortho82_4f1b851-wmsc-2",
             "name": "ortho82_4f1b851",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -652,15 +652,7 @@
           "name": "bdsol_ru_0ae992a",
           "format": "image/png",
           "srs": "EPSG:4326"
-        },
-        "bounding_boxes": [
-          [
-            1.69057,
-            4.84592,
-            42.3342,
-            44.9703
-          ]
-        ]
+        }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
@@ -673,15 +665,7 @@
           "name": "prediction_ru_200_2154_b65db19",
           "format": "image/png",
           "srs": "EPSG:4326"
-        },
-        "bounding_boxes": [
-          [
-            1.65043,
-            4.87711,
-            42.3202,
-            44.971
-          ]
-        ]
+        }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
@@ -694,15 +678,7 @@
           "name": "prediction_uncertainty_200_2154_30b191f",
           "format": "image/png",
           "srs": "EPSG:4326"
-        },
-        "bounding_boxes": [
-          [
-            1.65043,
-            4.87711,
-            42.3202,
-            44.971
-          ]
-        ]
+        }
       },
 
 
