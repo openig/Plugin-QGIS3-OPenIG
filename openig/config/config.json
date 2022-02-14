@@ -489,11 +489,11 @@
         "title": "BDSol L-R (version Donesol 3)",
         "description": "BDSol (version Donesol 3) Languedoc-Roussillon",
         "metadata_url": "https://ckan.openig.org/dataset/donnees-sol",
-        "type": "wfs_feature_type",
+        "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
           "name": "bd_sol_88510c6",
-          "version": "2.0.0",
+          "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
