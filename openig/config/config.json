@@ -605,10 +605,9 @@
         "title": "MNT 2012 L-R",
         "description": "Modèle Numérique de Terrain 2012 OPenIG (Ex SIG L-R) en Languedoc-Roussillon",
         "metadata_url": "https://ckan.openig.org/dataset/mnt",
-        "type": "wmts_layer",
+        "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
-          "tilematrixset_name": "siglr_mnt_lr_ad5a80f",
           "name": "siglr_mnt_lr_ad5a80f",
           "format": "image/png",
           "srs": "EPSG:3857"
