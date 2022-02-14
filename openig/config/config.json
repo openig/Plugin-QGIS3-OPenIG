@@ -628,7 +628,7 @@
         "title": "SCAN 50® Historique",
         "description": "SCAN 50® Historique - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-historique",
-        "type": "wms_layer",
+        "type": "wmts_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
           "tilematrixset_name": "scan50_historique_dd2ab07-wmsc-15",
@@ -642,7 +642,7 @@
         "title": "SCAN Régional®",
         "description": "SCAN Régional® - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-regional",
-        "type": "wms_layer",
+        "type": "wmts_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
           "tilematrixset_name": "ign_scanreg_e134dea-wmsc-5",
@@ -656,7 +656,7 @@
         "title": "SCAN Etat-Major® Occitanie",
         "description": "SCAN Etat-Major® 40K Occitanie - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-etat-major",
-        "type": "wms_layer",
+        "type": "wmts_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
           "tilematrixset_name": "scanem40k_87170fe-wmsc-11",
