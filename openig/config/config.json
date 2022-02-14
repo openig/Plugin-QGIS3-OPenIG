@@ -16,7 +16,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "09_2019_express_20cm_jp2_fd9b406-wmsc-14",
             "name": "09_2019_express_20cm_jp2_fd9b406",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -30,7 +30,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d11-2021_92e89d7-wmsc-1",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d11-2021_92e89d7",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -44,7 +44,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "ortho12_4fc8316-wmsc-0",
             "name": "ortho12_4fc8316",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -58,7 +58,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56-wmsc-13",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -72,7 +72,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "ortho31_7252f7f-wmsc-4",
             "name": "ortho31_7252f7f",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -86,7 +86,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "ortho32_aaf5c8a-wmsc-7",
             "name": "ortho32_aaf5c8a",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -100,7 +100,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18-wmsc-17",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -114,7 +114,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "ortho46_25a17cf-wmsc-8",
             "name": "ortho46_25a17cf",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -128,7 +128,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "mapserver_c593e84-wmsc-6",
             "name": "mapserver_c593e84",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -142,7 +142,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "ortho65_f00b246-wmsc-16",
             "name": "ortho65_f00b246",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -156,7 +156,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4-wmsc-3",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -170,7 +170,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "81_17e5a66-wmsc-12",
             "name": "81_17e5a66",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -184,7 +184,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "EPSG:3857",
+            "tilematrixset_name": "ortho82_4f1b851-wmsc-2",
             "name": "ortho82_4f1b851",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -631,7 +631,7 @@
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
-          "tilematrixset_name": "EPSG:3857",
+          "tilematrixset_name": "scan50_historique_dd2ab07-wmsc-15",
           "name": "scan50_historique_dd2ab07",
           "format": "image/png",
           "srs": "EPSG:3857"
@@ -645,7 +645,7 @@
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
-          "tilematrixset_name": "EPSG:3857",
+          "tilematrixset_name": "ign_scanreg_e134dea-wmsc-5",
           "name": "ign_scanreg_e134dea",
           "format": "image/png",
           "srs": "EPSG:3857"
@@ -659,7 +659,7 @@
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
-          "tilematrixset_name": "EPSG:3857",
+          "tilematrixset_name": "scanem40k_87170fe-wmsc-11",
           "name": "scanem40k_87170fe",
           "format": "image/png",
           "srs": "EPSG:3857"
