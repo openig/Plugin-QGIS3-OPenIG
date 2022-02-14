@@ -489,11 +489,11 @@
         "title": "BDSol L-R (version Donesol 3)",
         "description": "BDSol (version Donesol 3) Languedoc-Roussillon",
         "metadata_url": "https://ckan.openig.org/dataset/donnees-sol",
-        "type": "wms_layer",
+        "type": "wfs_feature_type",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
           "name": "bd_sol_88510c6",
-          "format": "image/png",
+          "version": "2.0.0",
           "srs": "EPSG:4326"
         }
       },
@@ -510,34 +510,6 @@
           "srs": "EPSG:4326"
         }
       },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "RU ex L-R - Valeur prédite (200cm)",
-        "description": "Réserves utiles des sols L-R - Valeur prédite (200cm)",
-        "metadata_url": "https://ckan.openig.org/dataset/cartes-numeriques-du-reservoir-utile-des-sols-en-languedoc-roussillon",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "prediction_ru_200_2154_b65db19",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-      {
-        "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "RU ex L-R - Incertitude de prédiction (200cm)",
-        "description": "Réserves utiles des sols L-R - Incertitude de prédiction (200cm)",
-        "metadata_url": "https://ckan.openig.org/dataset/cartes-numeriques-du-reservoir-utile-des-sols-en-languedoc-roussillon",
-        "type": "wms_layer",
-        "params": {
-          "url": "https://mapserver.openig.org/maps/openig",
-          "name": "prediction_uncertainty_200_2154_30b191f",
-          "format": "image/png",
-          "srs": "EPSG:4326"
-        }
-      },
-
-
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
         "title": "Indice de Qualité des Sols L-R",
