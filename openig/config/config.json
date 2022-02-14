@@ -608,7 +608,7 @@
         "type": "wmts_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
-          "tilematrixset_name": "EPSG:3857",
+          "tilematrixset_name": "siglr_mnt_lr_ad5a80f",
           "name": "siglr_mnt_lr_ad5a80f",
           "format": "image/png",
           "srs": "EPSG:3857"
