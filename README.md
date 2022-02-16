@@ -49,4 +49,4 @@ Equipe [OPenIG](https://www.openig.org/).
 
 Ceci est un fork du projet réalisé par [DataGrandEst](https://github.com/geograndest/qgis-plugin). Nous nous sommes aussi aidés du plugin de [Geo2France](https://github.com/geo2france/idg-qgis3-plugin/blob/main/README.md) ainsi que d'[INDIGEO](https://gitlab.in2p3.fr/letg/indigeo-for-qgis). Nous remercions l'ensemble des auteurs et contributeurs !
 
-N'hésitez pas à nous faire des retours et/ou des suggestions sur cet outil à l'adresse suivante : contact@openig.org
+N'hésitez pas à nous faire des retours et/ou des suggestions sur cet outil à l'adresse suivante : webmestre@openig.org
