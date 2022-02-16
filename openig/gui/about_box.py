@@ -24,7 +24,7 @@ class AboutBox(QDialog):
 
 
         title = u"À propos de l'extension OPenIG"
-        description1 = """Extension pour QGIS donnant un accès simplifié aux ressources géographiques de <a href="https://www.openig.org/">OPenIG</a> Version {}<br>""".format(PluginGlobals.instance().PLUGIN_VERSION)
+        description1 = """Extension pour QGIS donnant un accès simplifié à des ressources géographiques pour les adhérents d'<a href="https://www.openig.org/">OPenIG</a> Version {}<br>""".format(PluginGlobals.instance().PLUGIN_VERSION)
         description2 = """Plus d'informations à l'adresse suivante :<br><a href='{0}'>{0}</a><br>""".format(PluginGlobals.instance().PLUGIN_SOURCE_REPOSITORY)
         description3 = """Merci aux créateurs des plugins <a href="https://github.com/geo2france/idg-qgis3-plugin">Géo2France </a>, <a href="https://github.com/geograndest/qgis-plugin">DataGrandEst</a> et NeoGeo Technologies ur lesquels ce plugin est basé !"""
 

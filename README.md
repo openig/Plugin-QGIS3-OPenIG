@@ -1,7 +1,7 @@
 Plugin-QGIS3-OPenIG
 =======================
 
-Plugin pour QGIS 3 fournissant un accès simplifié aux flux géographiques WMS d'OPenIG.
+Plugin pour QGIS 3 fournissant un accès simplifié aux adhérents d'OPenIG à des flux géographiques WMS d'OPenIG.
 
 
 Installation
