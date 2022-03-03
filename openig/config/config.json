@@ -16,7 +16,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "09_2019_express_20cm_jp2_fd9b406-wmsc-09",
+            "tilematrixset_name": "09_2019_express_20cm_jp2_fd9b406-wmsc-9",
             "name": "09_2019_express_20cm_jp2_fd9b406",
             "format": "image/png",
             "srs": "EPSG:3857"
