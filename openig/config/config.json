@@ -916,169 +916,169 @@
         "children": [
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Ariège",
-        "description": "Scan25 Touristique 2018 Ariège - IGN",
+        "title": "Scan25 Touristique 2021 Ariège",
+        "description": "Scan25 Touristique 2021 Ariège - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d09_f6c09e8",
+          "name": "sc25_tour_jp2-e100_lamb93_d09_8e7e026",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Aude",
-        "description": "Scan25 Touristique 2018 Aude - IGN",
+        "title": "Scan25 Touristique 2021 Aude",
+        "description": "Scan25 Touristique 2021 Aude - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d11_63e1fb9",
+          "name": "sc25_tour_jp2-e100_lamb93_d11_ecf3111",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Aveyron",
-        "description": "Scan25 Touristique 2018 Aveyron - IGN",
+        "title": "Scan25 Touristique 2021 Aveyron",
+        "description": "Scan25 Touristique 2021 Aveyron - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d12_e4e16b8",
+          "name": "sc25_tour_jp2-e100_lamb93_d12_80a7c1e",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Gard",
-        "description": "Scan25 Touristique 2018 Gard - IGN",
+        "title": "Scan25 Touristique 2021 Gard",
+        "description": "Scan25 Touristique 2021 Gard - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d30_e164016",
+          "name": "sc25_tour_jp2-e100_lamb93_d30_d5236ff",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Haute-Garonne",
-        "description": "Scan25 Touristique 2018 Haute-Garonne - IGN",
+        "title": "Scan25 Touristique 2021 Haute-Garonne",
+        "description": "Scan25 Touristique 2021 Haute-Garonne - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d31_9860026",
+          "name": "sc25_tour_jp2-e100_lamb93_d31_7efbee9",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Gers",
-        "description": "Scan25 Touristique 2018 Gers - IGN",
+        "title": "Scan25 Touristique 2021 Gers",
+        "description": "Scan25 Touristique 2021 Gers - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d32_e585178",
+          "name": "sc25_tour_jp2-e100_lamb93_d32_107c403",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Hérault",
-        "description": "Scan25 Touristique 2018 Hérault - IGN",
+        "title": "Scan25 Touristique 2021 Hérault",
+        "description": "Scan25 Touristique 2021 Hérault - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d34_22617aa",
+          "name": "sc25_tour_jp2-e100_lamb93_d34_c10eee9",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Lot",
-        "description": "Scan25 Touristique 2018 Lot - IGN",
+        "title": "Scan25 Touristique 2021 Lot",
+        "description": "Scan25 Touristique 2021 Lot - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d46_aa6dce5",
+          "name": "sc25_tour_jp2-e100_lamb93_d46_dbdaa1c",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Lozère",
-        "description": "Scan25 Touristique 2018 Lozère - IGN",
+        "title": "Scan25 Touristique 2021 Lozère",
+        "description": "Scan25 Touristique 2021 Lozère - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d48_64df12b",
+          "name": "sc25_tour_jp2-e100_lamb93_d48_c964633",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Hautes-Pyrénées",
-        "description": "Scan25 Touristique 2018 Hautes-Pyrénées - IGN",
+        "title": "Scan25 Touristique 2021 Hautes-Pyrénées",
+        "description": "Scan25 Touristique 2021 Hautes-Pyrénées - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d65_5abcb81",
+          "name": "sc25_tour_jp2-e100_lamb93_d65_2f0c7d6",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Pyrénées Orientales",
-        "description": "Scan25 Touristique 2018 Pyrénées Orientales - IGN",
+        "title": "Scan25 Touristique 2021 Pyrénées Orientales",
+        "description": "Scan25 Touristique 2021 Pyrénées Orientales - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d66_4391d7e",
+          "name": "sc25_tour_jp2-e100_lamb93_d66_fd06a99",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Tarn",
-        "description": "Scan25 Touristique 2018 Tarn - IGN",
+        "title": "Scan25 Touristique 2021 Tarn",
+        "description": "Scan25 Touristique 2021 Tarn - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d81_1a9e7e8",
+          "name": "sc25_tour_jp2-e100_lamb93_d81_ffbfd37",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2018 Tarn-et-Garonne",
-        "description": "Scan25 Touristique 2018 Tarn-et-Garonne - IGN",
+        "title": "Scan25 Touristique 2021 Tarn-et-Garonne",
+        "description": "Scan25 Touristique 2021 Tarn-et-Garonne - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d82_83dbe1b",
+          "name": "sc25_tour_jp2-e100_lamb93_d82_74503ab",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
