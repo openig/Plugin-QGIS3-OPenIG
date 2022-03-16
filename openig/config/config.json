@@ -128,7 +128,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "mapserver_c593e84-wmsc-",
+            "tilematrixset_name": "mapserver_c593e84-wmsc-1",
             "name": "mapserver_c593e84",
             "format": "image/png",
             "srs": "EPSG:3857"
