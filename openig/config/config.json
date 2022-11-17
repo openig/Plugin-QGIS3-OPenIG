@@ -264,7 +264,7 @@
             "format": "image/png",
             "srs": "EPSG:4326"
           }
-        },
+        }
       ]
     },
 
