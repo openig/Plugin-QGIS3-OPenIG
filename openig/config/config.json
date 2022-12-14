@@ -1046,13 +1046,13 @@
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Lozère",
-        "description": "Scan25 Touristique 2021 Lozère - IGN",
+        "title": "Scan25 Touristique 2022 Lozère",
+        "description": "Scan25 Touristique 2022 Lozère - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d48_c964633",
+          "name": "sc25_tour_tif_lamb93_d48_d6a6247",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
