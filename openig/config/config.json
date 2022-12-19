@@ -16,7 +16,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "09_2019_express_20cm_jp2_fd9b406-wmsc-13",
+            "tilematrixset_name": "09_2019_express_20cm_jp2_fd9b406-wmsc-19",
             "name": "09_2019_express_20cm_jp2_fd9b406",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -30,7 +30,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d11-2021_92e89d7-wmsc-0",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d11-2021_92e89d7-wmsc-5",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d11-2021_92e89d7",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -44,7 +44,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho12_4fc8316-wmsc-19",
+            "tilematrixset_name": "ortho12_4fc8316-wmsc-4",
             "name": "ortho12_4fc8316",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -58,7 +58,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56-wmsc-12",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56-wmsc-18",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d30-2021_6c76c56",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -72,7 +72,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho31_7252f7f-wmsc-3",
+            "tilematrixset_name": "ortho31_7252f7f-wmsc-8",
             "name": "ortho31_7252f7f",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -86,7 +86,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho32_aaf5c8a-wmsc-7",
+            "tilematrixset_name": "ortho32_aaf5c8a-wmsc-12",
             "name": "ortho32_aaf5c8a",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -100,7 +100,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18-wmsc-17",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18-wmsc-2",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d34-2021_b0a5c18",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -114,7 +114,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho46_25a17cf-wmsc-8",
+            "tilematrixset_name": "ortho46_25a17cf-wmsc-13",
             "name": "ortho46_25a17cf",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -128,8 +128,22 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "mapserver_c593e84-wmsc-6",
+            "tilematrixset_name": "mapserver_c593e84-wmsc-11",
             "name": "mapserver_c593e84",
+            "format": "image/png",
+            "srs": "EPSG:3857"
+          }
+        },
+        {
+          "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
+          "title": "Lozère - Ortho 2021 IGN",
+          "description": "Orthophotographie 2021 IGN de la Lozère (48)",
+          "metadata_url": "https://geonetwork.openig.org/geonetwork/srv/fre/catalog.search#/metadata/0c6033ff-eb12-41e1-9648-67462ab9a739",
+          "type": "wmts_layer",
+          "params": {
+            "url": "https://mapserver.openig.org/mapcache/",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d48-2021_904e962-wmsc-14",
+            "name": "ohr_rvb_0m20_jp2-e080_lamb93_d48-2021_904e962",
             "format": "image/png",
             "srs": "EPSG:3857"
           }
@@ -142,7 +156,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho65_f00b246-wmsc-16",
+            "tilematrixset_name": "ortho65_f00b246-wmsc-1",
             "name": "ortho65_f00b246",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -156,7 +170,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4-wmsc-2",
+            "tilematrixset_name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4-wmsc-7",
             "name": "ohr_rvb_0m20_jp2-e080_lamb93_d66-2021_0f1b5b4",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -170,7 +184,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "81_17e5a66-wmsc-11",
+            "tilematrixset_name": "81_17e5a66-wmsc-17",
             "name": "81_17e5a66",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -184,7 +198,7 @@
           "type": "wmts_layer",
           "params": {
             "url": "https://mapserver.openig.org/mapcache/",
-            "tilematrixset_name": "ortho82_4f1b851-wmsc-1",
+            "tilematrixset_name": "ortho82_4f1b851-wmsc-6",
             "name": "ortho82_4f1b851",
             "format": "image/png",
             "srs": "EPSG:3857"
@@ -520,7 +534,7 @@
         "type": "wmts_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
-          "tilematrixset_name": "siglr_mnt_lr_ad5a80f-wmsc-9",
+          "tilematrixset_name": "siglr_mnt_lr_ad5a80f-wmsc-15",
           "name": "siglr_mnt_lr_ad5a80f",
           "format": "image/png",
           "srs": "EPSG:3857"
@@ -543,7 +557,7 @@
         "type": "wmts_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
-          "tilematrixset_name": "scan50_historique_dd2ab07-wmsc-15",
+          "tilematrixset_name": "scan50_historique_dd2ab07-wmsc-0",
           "name": "scan50_historique_dd2ab07",
           "format": "image/png",
           "srs": "EPSG:3857"
@@ -557,7 +571,7 @@
         "type": "wmts_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
-          "tilematrixset_name": "ign_scanreg_e134dea-wmsc-4",
+          "tilematrixset_name": "ign_scanreg_e134dea-wmsc-9",
           "name": "ign_scanreg_e134dea",
           "format": "image/png",
           "srs": "EPSG:3857"
@@ -571,7 +585,7 @@
         "type": "wmts_layer",
         "params": {
           "url": "https://mapserver.openig.org/mapcache/",
-          "tilematrixset_name": "scanem40k_87170fe-wmsc-10",
+          "tilematrixset_name": "scanem40k_87170fe-wmsc-16",
           "name": "scanem40k_87170fe",
           "format": "image/png",
           "srs": "EPSG:3857"
@@ -942,104 +956,104 @@
         "children": [
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Ariège",
-        "description": "Scan25 Touristique 2021 Ariège - IGN",
+        "title": "Scan25 Touristique 2022 Ariège",
+        "description": "Scan25 Touristique 2022 Ariège - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d09_8e7e026",
+          "name": "sc25_tour_tif_lamb93_d09_9075ec4",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Aude",
-        "description": "Scan25 Touristique 2021 Aude - IGN",
+        "title": "Scan25 Touristique 2022 Aude",
+        "description": "Scan25 Touristique 2022 Aude - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d11_ecf3111",
+          "name": "sc25_tour_tif_lamb93_d11_423edac",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Aveyron",
-        "description": "Scan25 Touristique 2021 Aveyron - IGN",
+        "title": "Scan25 Touristique 2022 Aveyron",
+        "description": "Scan25 Touristique 2022 Aveyron - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d12_80a7c1e",
+          "name": "sc25_tour_tif_lamb93_d12_0df41d6",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Gard",
-        "description": "Scan25 Touristique 2021 Gard - IGN",
+        "title": "Scan25 Touristique 2022 Gard",
+        "description": "Scan25 Touristique 2022 Gard - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d30_d5236ff",
+          "name": "sc25_tour_tif_lamb93_d30_b02667c",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Haute-Garonne",
-        "description": "Scan25 Touristique 2021 Haute-Garonne - IGN",
+        "title": "Scan25 Touristique 2022 Haute-Garonne",
+        "description": "Scan25 Touristique 2022 Haute-Garonne - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d31_7efbee9",
+          "name": "sc25_tour_tif_lamb93_d31_9aee11b",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Gers",
-        "description": "Scan25 Touristique 2021 Gers - IGN",
+        "title": "Scan25 Touristique 2022 Gers",
+        "description": "Scan25 Touristique 2022 Gers - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d32_107c403",
+          "name": "sc25_tour_tif_lamb93_d32_6fbcf4e",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Hérault",
-        "description": "Scan25 Touristique 2021 Hérault - IGN",
+        "title": "Scan25 Touristique 2022 Hérault",
+        "description": "Scan25 Touristique 2022 Hérault - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d34_c10eee9",
+          "name": "sc25_tour_tif_lamb93_d34_ccf6ee4",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Lot",
-        "description": "Scan25 Touristique 2021 Lot - IGN",
+        "title": "Scan25 Touristique 2022 Lot",
+        "description": "Scan25 Touristique 2022 Lot - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d46_dbdaa1c",
+          "name": "sc25_tour_tif_lamb93_d46_d1e39bc",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
@@ -1059,52 +1073,52 @@
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Hautes-Pyrénées",
-        "description": "Scan25 Touristique 2021 Hautes-Pyrénées - IGN",
+        "title": "Scan25 Touristique 2022 Hautes-Pyrénées",
+        "description": "Scan25 Touristique 2022 Hautes-Pyrénées - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d65_2f0c7d6",
+          "name": "sc25_tour_tif_lamb93_d65_63e9af6",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Pyrénées Orientales",
-        "description": "Scan25 Touristique 2021 Pyrénées Orientales - IGN",
+        "title": "Scan25 Touristique 2022 Pyrénées Orientales",
+        "description": "Scan25 Touristique 2022 Pyrénées Orientales - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d66_fd06a99",
+          "name": "sc25_tour_tif_lamb93_d66_edd9d88",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Tarn",
-        "description": "Scan25 Touristique 2021 Tarn - IGN",
+        "title": "Scan25 Touristique 2022 Tarn",
+        "description": "Scan25 Touristique 2022 Tarn - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d81_ffbfd37",
+          "name": "sc25_tour_tif_lamb93_d81_b7f1538",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
       },
       {
         "ident": "0632365f-522d-446e-9b4c-afafb1ad7f7f",
-        "title": "Scan25 Touristique 2021 Tarn-et-Garonne",
-        "description": "Scan25 Touristique 2021 Tarn-et-Garonne - IGN",
+        "title": "Scan25 Touristique 2022 Tarn-et-Garonne",
+        "description": "Scan25 Touristique 2022 Tarn-et-Garonne - IGN",
         "metadata_url": "https://ckan.openig.org/dataset/scan-ign-touristique",
         "type": "wms_layer",
         "params": {
           "url": "https://mapserver.openig.org/maps/openig",
-          "name": "sc25_tour_jp2-e100_lamb93_d82_74503ab",
+          "name": "sc25_tour_tif_lamb93_d82_019b2c0",
           "format": "image/png",
           "srs": "EPSG:4326"
         }
